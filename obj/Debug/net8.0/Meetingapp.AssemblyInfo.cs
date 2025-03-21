@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Meetingapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4131c4ad653c181961453235c574d28a83026b9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+758767fe74b4862677dd790af612a5d61a1f437a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Meetingapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Meetingapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
